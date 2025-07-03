@@ -44,4 +44,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ParamjeetSlathia/DSA/tree/master/0191-number-of-1-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
