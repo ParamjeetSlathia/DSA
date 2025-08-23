@@ -54,10 +54,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
