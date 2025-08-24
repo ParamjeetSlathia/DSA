@@ -50,6 +50,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -65,4 +66,5 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
