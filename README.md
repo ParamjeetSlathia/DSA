@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParamjeetSlathia/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -50,6 +51,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParamjeetSlathia/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -65,6 +67,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParamjeetSlathia/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
