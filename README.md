@@ -60,12 +60,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 ## Linked List
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
