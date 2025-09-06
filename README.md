@@ -43,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
