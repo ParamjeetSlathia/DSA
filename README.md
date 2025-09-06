@@ -28,6 +28,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParamjeetSlathia/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/ParamjeetSlathia/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
@@ -57,6 +59,7 @@
 | [0206-reverse-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
