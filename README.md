@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ParamjeetSlathia/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ParamjeetSlathia/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
