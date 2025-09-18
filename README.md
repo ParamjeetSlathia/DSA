@@ -119,4 +119,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ParamjeetSlathia/DSA/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/ParamjeetSlathia/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
