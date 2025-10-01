@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ParamjeetSlathia/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 ## Database
 |  |
 | ------- |
