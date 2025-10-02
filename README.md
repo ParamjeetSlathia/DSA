@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/ParamjeetSlathia/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ParamjeetSlathia/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
