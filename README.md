@@ -76,6 +76,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
@@ -85,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/ParamjeetSlathia/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Linked List
