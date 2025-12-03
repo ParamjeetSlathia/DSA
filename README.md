@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ParamjeetSlathia/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -124,6 +125,7 @@
 | [0035-search-insert-position](https://github.com/ParamjeetSlathia/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Database
 |  |
 | ------- |
