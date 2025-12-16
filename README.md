@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParamjeetSlathia/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ParamjeetSlathia/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
