@@ -142,5 +142,6 @@
 | [0183-customers-who-never-order](https://github.com/ParamjeetSlathia/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ParamjeetSlathia/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ParamjeetSlathia/DSA/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/ParamjeetSlathia/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ParamjeetSlathia/DSA/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
