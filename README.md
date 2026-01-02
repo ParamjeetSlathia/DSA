@@ -95,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ParamjeetSlathia/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParamjeetSlathia/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ParamjeetSlathia/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -147,4 +149,8 @@
 | [0595-big-countries](https://github.com/ParamjeetSlathia/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ParamjeetSlathia/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ParamjeetSlathia/DSA/tree/master/0627-swap-sex-of-employees) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ParamjeetSlathia/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
