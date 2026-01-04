@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/ParamjeetSlathia/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ParamjeetSlathia/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ParamjeetSlathia/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
