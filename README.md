@@ -155,6 +155,7 @@
 | [0627-swap-sex-of-employees](https://github.com/ParamjeetSlathia/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParamjeetSlathia/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/ParamjeetSlathia/DSA/tree/master/1211-queries-quality-and-percentage) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ParamjeetSlathia/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
 | ------- |
