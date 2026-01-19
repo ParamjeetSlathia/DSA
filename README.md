@@ -154,6 +154,7 @@
 | [0620-not-boring-movies](https://github.com/ParamjeetSlathia/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ParamjeetSlathia/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParamjeetSlathia/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1148-article-views-i](https://github.com/ParamjeetSlathia/DSA/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ParamjeetSlathia/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParamjeetSlathia/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
