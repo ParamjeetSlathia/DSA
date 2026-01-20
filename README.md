@@ -156,6 +156,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParamjeetSlathia/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/ParamjeetSlathia/DSA/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ParamjeetSlathia/DSA/tree/master/1211-queries-quality-and-percentage) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParamjeetSlathia/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParamjeetSlathia/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
