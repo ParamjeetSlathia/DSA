@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParamjeetSlathia/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParamjeetSlathia/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParamjeetSlathia/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
