@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@
 | [0053-maximum-subarray](https://github.com/ParamjeetSlathia/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ParamjeetSlathia/DSA/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0035-search-insert-position](https://github.com/ParamjeetSlathia/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ParamjeetSlathia/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/ParamjeetSlathia/DSA/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Database
@@ -181,4 +184,5 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ParamjeetSlathia/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
