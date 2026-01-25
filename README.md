@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -125,10 +127,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/ParamjeetSlathia/DSA/tree/master/2507-number-of-common-factors) |
 ## Memoization
 |  |
