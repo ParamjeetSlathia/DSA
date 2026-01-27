@@ -168,6 +168,7 @@
 | [0620-not-boring-movies](https://github.com/ParamjeetSlathia/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ParamjeetSlathia/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ParamjeetSlathia/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1070-product-sales-analysis-iii](https://github.com/ParamjeetSlathia/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/ParamjeetSlathia/DSA/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ParamjeetSlathia/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/ParamjeetSlathia/DSA/tree/master/1148-article-views-i) |
