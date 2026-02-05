@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParamjeetSlathia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ParamjeetSlathia/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -66,6 +67,7 @@
 | [0007-reverse-integer](https://github.com/ParamjeetSlathia/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ParamjeetSlathia/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ParamjeetSlathia/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ParamjeetSlathia/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ParamjeetSlathia/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ParamjeetSlathia/DSA/tree/master/1013-fibonacci-number) |
@@ -98,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ParamjeetSlathia/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ParamjeetSlathia/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParamjeetSlathia/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
