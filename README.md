@@ -36,6 +36,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ParamjeetSlathia/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/ParamjeetSlathia/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParamjeetSlathia/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ParamjeetSlathia/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ParamjeetSlathia/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ParamjeetSlathia/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ParamjeetSlathia/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
