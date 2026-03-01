@@ -1,6 +1,9 @@
 # Write your MySQL query statement below
-select d.name as department , e.name as employee, salary
- from employee e join department d
+select d.name as department , e.name as employee, e.salary as salary
+from (
+    select *, rank() over(partition by departmentId order by salary desc ) as rnk
+     from employee
+)e 
+join department d 
 on e.departmentId = d.id
- where (e.departmentId , e.salary) in
- (select departmentId, max(salary) from employee group by departmentId)
+where rnk = 1;
