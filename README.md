@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParamjeetSlathia/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParamjeetSlathia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ParamjeetSlathia/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ParamjeetSlathia/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ParamjeetSlathia/DSA/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParamjeetSlathia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ParamjeetSlathia/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParamjeetSlathia/DSA/tree/master/0058-length-of-last-word) |
@@ -214,6 +216,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParamjeetSlathia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ParamjeetSlathia/DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
